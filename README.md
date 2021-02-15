@@ -10,7 +10,7 @@ If you want to edit it, you only need to adapt the index.html and the cover.css.
 
 ## 🖥 Demo
 
-http://schoch.space/startpage
+https://tobias-schoch.github.io/startpage/
 
 ## 🔑 Easter Egg
 
